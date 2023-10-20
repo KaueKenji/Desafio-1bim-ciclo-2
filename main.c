@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 // vetores globais
-// posição do jogo e prod
+// posição do jogo e produtos
 char jogos[3][30], produtora[3][20];
 
 
