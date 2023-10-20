@@ -3,8 +3,9 @@
 #include <stdlib.h>
 
 // vetores globais
-char jogos[3][30], produtora[3][20];
 // posição do jogo e prod
+char jogos[3][30], produtora[3][20];
+
 
 
 //arquivos
